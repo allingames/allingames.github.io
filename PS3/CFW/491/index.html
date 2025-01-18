@@ -1,16 +1,18 @@
-<title>PS3Xploit - Flash Writer</title>
+
+<!-- saved from url=(0051)https://allingames.github.io/PS3/CFW/491/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>PS3Xploit - Flash Writer</title>
 <style>
 table, th, td {
   border: 1px solid;
 }
 </style>
-<center>
-  <h1><span style='color:red'>PS3 NOR/NAND Flash Writer 4.91 (Unofficial)</span></h1>
-  <h2>Thanks to: PS3Xploit Team, Evilnat, kostirez1, littlebalup, Joonie</h2>
-  Special Thanks to bguerville, lmn7, Joonie, littlebalup, Evilnat, aldostools and VideogamesSCZ for beta test</h2>
+</head><body><center>
+  <h1><span style="color:red">PS3 NOR/NAND Flash 4.91 (ALL IN GAMES)</span></h1>
+  <h2>Pastikan Keperluan &amp; Mesin Anda sudah Sesuai , Karna Jika Salah akan mengakibatkan Brick Pada Mesin</h2>
+  Create By: ALL IN GAMES
   <hr>
 	<div id="dropdown">
-	<h3>Select USB Flash Dumping Device</h3>
+	<h3>pasang USB di sebelah kanan</h3>
 	<select id="usbList" onchange="updateDumpPath()">
 	<option>/dev_usb000/</option>
 	<option>/dev_usb001/</option>
@@ -23,13 +25,13 @@ table, th, td {
 	</select>
 	</div>
 	<h3>
-	<input id='init' style='margin:0px 10px 0px 10px' type='button' value='NOR' onclick='initROP(true)'/>
-	<input id='nand' style='margin:0px 10px 0px 10px' type='button' value='NAND' onclick='nand()'/>
+	<input id="init" style="margin:0px 10px 0px 10px" type="button" value="NOR" onclick="initROP(true)">
+	<input id="nand" style="margin:0px 10px 0px 10px" type="button" value="NAND" onclick="nand()">
 	</h3>
   <div id="result" tabindex="0"></div>
   <div id="offsets" style="display: none;">
   <table>
-	<tr>
+	<tbody><tr>
 		<th>Name</th>
 		<th>Offset</th>
 	</tr>
@@ -85,7 +87,7 @@ table, th, td {
 		<td>jump_2_4</td>
 		<td id="jump_2_4_offset"></td>
 	</tr>
-  </table>
+  </tbody></table>
   </div>
   <div id="exploit" style="display: none;"></div>
   <div id="trigger" style="display: none;"></div>
@@ -924,4 +926,4 @@ function HFWmsg()
 	showResult("<h3><span style='color:red'>You must install Hybrid Firmware (HFW) 4.91 before using this tool!</h3></span>");
 	throw new Error();
 }
-</script>
+</script></center></body></html>
