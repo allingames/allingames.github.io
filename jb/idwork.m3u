@@ -1,0 +1,385 @@
+#EXTM3U
+
+###### NASIONAL ################
+#EXTINF:-1 group-title="lokal" tvg-logo="https://i.imgur.com/bD2odoR.png",TVRI NASIONAL
+https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
+
+
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" group-title="lokal",Trans7 (720p) [Geo-blocked]
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://static.wikia.nocookie.net/sketsa/images/4/44/Logotranstv.png/revision/latest?cb=20210722133912&path-prefix=id", TransTV 
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png",SCTV
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 group-title="news;lokal" tvg-logo="",TVOne
+https://e.siar.us/live/aktv.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg", MDTV 
+https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
+
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://thumbor.prod.vidiocdn.com/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg", METRO TV HD 
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+
+#EXTINF:-1 group-title="lokal;news" tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg",KompasTV
+http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
+
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="news" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="news;lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png", OFLLINE MOJI HD
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-id="RajawaliTV.id" status="online",RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-id="UChannel.id" status="online",U Channel (576p) [Not 24/7] [Geo-blocked]
+http://210.210.155.37/x6bnqe/s/s73/index2.m3u8
+
+
+
+############ NASIONAL BUKAN UTAMA #############
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Logoelshinta.png",Elshinta TV
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",DAAI TV 
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
+
+
+#EXTINF:0 tvg-country="ID" group-title="lokal" tvg-logo="https://cc.dinus.ac.id/assets/uploads/penyedia/08095-tvkusmg.png",MAGNA TV
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
+
+#EXTINF:-1 group-title="lokal" tvg-logo="",DENS Play
+https://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+
+#EXTINF:-1 group-title="lokal" tvg-id="JPMTV.id", DENSLIFESTYLE
+https://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+
+
+#EXTINF:-1 group-title="daerah", DFC
+https://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+
+
+############ DAERAH NON   TVRI ############
+
+#EXTINF:-1 group-title="daerah",SHOWBIZ
+https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+
+
+#EXTINF:-1 group-title="daerah", KNOWLEGE
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+
+
+#EXTINF:-1 group-title="daerah",JOWO TV
+https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="daerah",BTV
+https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+
+
+
+#EXTINF:-1 group-title="daerah",BERITA SATU
+https://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+
+#EXTINF:-1 group-title="daerah",JAK TV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="daerah",NUSANTARA TV
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+
+
+###########   KOREA  #######
+
+
+
+
+#EXTINF:-0 tvg-name="KOREA" tvg-logo="https://www.infotelevisi.com/asset/images/tv/k_plus.jpg" group-title="film", KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w1472889535.m3u8
+
+
+#EXTINF:-1 group-title="KOREA",EBS1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="KOREA",EBS KIDS
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="film",thrill SD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-1 group-title="film",thrill HD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="life",KBS WORLD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+
+
+
+
+############    INTER   ######
+
+
+#EXTINF:-1 group-title="inter",CRIME THILLER
+https://livetv-fa.tubi.video/crime-thrillher/playlist_36_0.m3u8
+
+#EXTINF:-1 group-title="inter",DEF JAM
+https://aegis-cloudfront-1.tubi.video/2de38cbc-3ee3-4fdc-b903-be1db2b09380/index_3.m3u8
+
+
+
+#EXTINF:-1 group-title="inter",FEAR FACTOR
+https://livetv-fa.tubi.video/fear-factor/480p-cc/index.m3u8
+
+
+#EXTINF:-1 group-title="inter",NAT GEO LATIN
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/tracks-a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="inter",NBC SPORT
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master_1.m3u8
+
+
+
+#EXTINF:-1 group-title="inter",SPEED TV
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist_webvtt.m3u8
+
+#EXTINF:-1 group-title="inter", MALAYSIA SPORT
+https://proshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="inter",MALAYSIA TV
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b796000_slENG.m3u8?id=1
+
+#EXTINF:-1 group-title="inter",JAPAN NHK TV
+https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
+
+#EXTINF:-1 group-title="inter",CGNTV JAPAN
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_3.m3u8
+
+#EXTINF:-1 group-title="inter",AL ARAB
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="inter",CNBC ARAB
+https://cnbc-live.akamaized.net/cnbc/master_720p.m3u8
+
+#EXTINF:-1 group-title="inter",CNA SINGAPORE
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+
+#EXTINF:-1 group-title="inter",WILD EARTH UK
+https://wildearth-xumo.amagi.tv/masterR404p.m3u8
+
+#EXTINF:-1 group-title="inter",POP TV
+https://narrative-popkids-rakuten.amagi.tv/480p/index.m3u8
+
+#EXTINF:-1 group-title="inter",Rai Italia
+http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="inter",ONE
+http://rtmp.one.by:1300
+
+###########  FILM   ##########
+
+#EXTINF:-1 group-title="film" tvg-id="MyCinema.id", CLASSIC MOVIE
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/tracks-v1a1/mono.m3u8?nimblesessionid=1231302985
+
+#EXTINF:-1 group-title="film" tvg-id="MyCinemaAsia.id" status="online",LOL TV
+https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/d117bd7f-15f5-451c-aa29-3ed9b521e1cc/1.m3u8
+
+#EXTINF:-1 group-title="film" tvg-id="MyFamily.id" status="online",JUST FOR LAUGHT
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/cc55afc3-3427-4074-9a43-9337a5197d90/1.m3u8
+
+#EXTINF:-1 group-title="film" tvg-id="MyKidz.id" status="online",HORROR TV
+https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/93025483-27b3-430b-af69-3dd7057fe562/1.m3u8
+
+#EXTINF:-1 group-title="film",COBOY TV
+https://streams2.sofast.tv/ptnr-yupptv/title-COWBOY-MOVIE-CHANNEL-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/4434fd47-6d46-43e9-b132-fab122edc732/29b0793a-6e3f-46b9-82a8-6d82bf1d5400/1.m3u8
+
+#EXTINF:-1 group-title="film",KUNGFU TV
+https://streams2.sofast.tv/ptnr-yupptv/title-KUNG-FU-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/c46c990f-64ab-4d8d-9f27-f05037277f07/1.m3u8
+
+#EXTINF:-1 group-title="BEST ACTION TV
+https://streams2.sofast.tv/ptnr-yupptv/title-BEST_ACTION_YUPPTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/d72d4f82-9040-4227-bf3c-90aec9a5d863/1.m3u8
+
+
+#EXTINF:-1 group-title="film",BEST DRAMA
+https://streams2.sofast.tv/ptnr-yupptv/title-BEST_DRAMA_YUPPTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/21ff5e38-06f1-4512-815c-3a658ea3e7d0/1.m3u8
+
+#EXTINF:-1 group-title="film",FOX MOVIES
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+
+
+
+
+
+######## ISLAM  ###########
+
+
+#EXTINF:-1 group-title="islam",MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="islam",AL ZAJERAH
+https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8
+
+#EXTINF:-1 group-title="islam",MADINAH 2
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-1 group-title="islam",Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/index.m3u8
+
+
+
+########## KARTUN ###########
+
+#EXTINF:-1 group-title="KARTUN" tvg-logo="",MR BEAN
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/cb573d1e786c6d8c84cb3a78d1f64082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abb00c46d16ca6b70141912840fa83439fd401b384d15f8316d373f016ccc0f5ded312d3e4cf598a6f4ef00d224054bdc210bac759b9d49f7a309d03472c7c74d5d3587ad35efc23624ff1feb1d20d00d0cafb42ab613cba128c4ec641e290690dd583648bd7dcf5434a38b6d05a2b47f2a7c8ef8a60bce543dc70917d0aa2c90f5e0092f34d924e0a2b99fc843e85c81484a222bf79087737ed9e5f9291be82a0e5c31adc6dfdcefa9c32555d232a36c60cf2d43d8069ea71a698477a1c5512f9d315e596c95235554a84ab57c05c4eea8cc5d0894e73e1482f77c42c99570c67c9744b79e626f6d37c4f813405883072aa0c65ce12b2e862a5e7e8e4003aa7d78817ac38a1e65ca08368c35a355706bce53f1f141c0fb7c0524d61298d159e90a08750060febfbc884b0703015361a574cc6a2d079958acf3e0e54a67723737f0418860eb43e88e0289ae006b8b5d181a289166d0fbca06d29d089647978/77/848x480_1686360/index.m3u8
+
+#EXTINF:-1 group-title="KARTUN" tvg-logo="",YU GI OH
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/cb573d1e786c6d8c84cb3a78d1f64082847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7feb05b178c39a5e20141912843fa83439fd401b389d35d83458075f2159891f18bd112d3e4cf598a6f4ef00d224054bdc210bac759b9d49f7a309d03472c7c74d5d3587ad35efc23624ff1feb1d20d00d0cafb42ab613cba128c4ec641e290690dd583648bd7dcf5434a38b6d05a2b47f2a7c8ef8a60bce543dc70917d0aa2c90f5e0092f34d924e0a2b99fc843e85c81484a222bf79087737ed9e5f9291be82a0e5c31adc6dfdcefa9c32555d232a36c60cf2d43d8069ea71a698477a1c5512f9d315e596c95235554a84ab57c05c4eea8cc5d0894e73e1482f77c42c99570c67c9744b79e626f6d37c4f813405883072aa0c65ce12b2e862a5e7e8e4003aa7d78817ac38a1e65ca08368c35a355706bce53f1f141c0fb7c0524d61298d159e90a08750060febfbc884b0703015361a574cc6a2d079958acf3e0e54a67723737f0418860eb4318fe02885e106b8b5f514461d10ff68e268c0b0379440c1bf/80/848x480_1686360/index.m3u8
+
+#EXTINF:-1 tvg-logo="",WILDEARTH
+https://wildearth-xumo.amagi.tv/masterR404p.m3u8
+
+#EXTINF:-1 group-title="KARTUN" tvg-logo="",EBS KIDS KOREA
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",KIDDOTV
+https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/751ef192-f219-4ace-8089-6e135f4dfb6a/1.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",CARTOON CLASSIC
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/8321919e-a03c-4dd5-9536-d4cdf19499e5/1.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",RIC TOON
+https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/c9c37ffc-46b0-40d8-a36c-197c03942644/1.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",SPACETOON ARAB
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",CARTOON CHANEL
+https://livetv-fa.tubi.video/kartoon/kc_co_english.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",PBS KIDS
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_3.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",PBS KIDSALASKA
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst_3.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",PBS KIDS CENTRAL
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",PBS KIDS HAWAI
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst_3.m3u8
+
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",PBS KIDS HAWAI
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst_3.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="",SHAUN THE SHEEP 
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst_3.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI JAWA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) YOGYAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI NUSA TENGGARA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI NUSA TENGGARA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+
+#EXTINF:-1 group-title="daerah"  tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI KALIMANTAN BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI KALIMANTAN TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI KALIMANTAN TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI KALIMANTAN SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI TENGGARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI SULAWESI UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI GORONTALO
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI MALUKU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+
+#EXTINF:-1 group-title="daerah" tvg-logo="https://i.imgur.com/bD2odoR.png",(ID) TVRI PAPUA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+
+
+
+
+
+
+######### OTHER ############
+
+
+
+#EXTINF:-1 group-title="lokal",Live Streaming 1
+http://210.210.155.35/x6bnqe/s/s100/live.m3u8
+
+#EXTINF:-1 group-title="lokal",Live Streaming 2
+http://210.210.155.35/uq2663/h/h998/live.m3u8
+
+#EXTINF:-1 tvg-id="BatuTV.id",Batu TV [Not 24/7]
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:-1 tvg-id="FajarTV.id",Fajar TV (240p) [Not 24/7]
+http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JambiTV.id" status="online",Jambi TV (576p) [Not 24/7]
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="JogjaTV.id" status="online",Jogja TV (720p) [Not 24/7]
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="SemarangTV.id" status="online",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1 tvg-id="TVRParlemen.id" status="error",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
